@@ -54,7 +54,6 @@ I develop projects in different languages and fields, but my main passion and fo
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/UK014"><img src="https://github-readme-stats.vercel.app/api?username=UK014&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="UK014's GitHub stats" /></a>
-<a href="http://www.github.com/UK014"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UK014&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</a>
+
 ###
 
