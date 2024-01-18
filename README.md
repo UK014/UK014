@@ -52,7 +52,9 @@ I develop projects in different languages and fields, but my main passion and fo
 ### Badges
 
 <b>My GitHub Stats</b>
-
+![](https://github-readme-stats.vercel.app/api?username=UK014&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UK014&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UK014&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <a href="http://www.github.com/UK014"><img src="https://github-readme-stats.vercel.app/api?username=UK014&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="UK014's GitHub stats" /></a>
 
 ###
